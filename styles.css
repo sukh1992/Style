@@ -1,0 +1,54 @@
+/* Styles */
+
+body {
+	background-color: lightpink;
+	color: #4d008e;
+	font-family: sans-serif;
+}
+
+article {
+	max-width: 45em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 1em;
+	padding-bottom: 3em;
+	padding-left: 2em;
+	padding-right: 2em;
+	border-style: dotted;
+	border-width: medium;
+}
+
+h1 {
+	font-size: 2em;
+	line-height: 1;
+}
+
+h2 {
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: -0.015em;
+}
+
+h3 {
+	    text-transform: uppercase;
+}
+
+h4 {
+	    text-transform: uppercase;
+}
+
+
+p {
+	margin: 0px 0 2em 0;
+	font-family: serif;
+	text-indent: 1em;
+}
+
+ul {
+	color: darkcyan;
+	font-style: italic;: 
+}
+
+a {
+	color: #f90000;
+}
